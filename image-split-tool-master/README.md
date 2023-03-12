@@ -1,3 +1,7 @@
+Implementation of a simple image splitting tool in C++ and using ImGui.
+
+How to install:
+
 # Windows use VcPkg toolchain with cmake
 
 1. Configure CMake to use x64 architecture
@@ -25,5 +29,3 @@ Additional arguments to pass to CMake when configuring.
 ```
 vcpgk install
 ```
-
-# On Ubuntu
