@@ -1,0 +1,10 @@
+{
+    "name": "image-split-tool",
+    "version": "1.0.0",
+    "dependencies": [
+        "glfw3",
+        "glew",
+        "opencv",
+        "nativefiledialog"
+    ]
+}
